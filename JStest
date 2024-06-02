@@ -39,7 +39,7 @@ function getTotalSupply() {
 }
 
 mintNFT(1, "Lakshyaraj", "Black", "india", "rajasthan")
-mintNFT(1, "Amit", "hazel", "india", "punjab")
+mintNFT(2, "Amit", "hazel", "india", "punjab")
 
 
 // call your functions below this line
